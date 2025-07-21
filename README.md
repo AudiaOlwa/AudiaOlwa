@@ -1,16 +1,20 @@
-## Hi there 👋
+# Salut 👋
 
-<!--
-**AudiaOlwa/AudiaOlwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Audia Olwa | Développeuse Fullstack
+Passionnée par le développement web et les technologies open source.
 
-Here are some ideas to get you started:
+- 🔭 Actuellement, je travaille sur des projets React et Django
+- 🌱 Je me forme en génie logiciel avec le programme ALX
+🚀 Compétences Techniques
+Langages : JavaScript, Python, HTML, CSS, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks / Librairies : React, Node.js, Django, Bootstrap, Tailwind
+
+Outils : Git, GitHub, VS Code, Figma, MongoDB
+
+Soft Skills : Résolution de problèmes, travail en équipe, communication, gestion du temps
+
+- 👯 Je suis ouverte à des collaborations sur des projets web innovants
+- 📫 Comment me contacter :
+- Email : audiaolwa@gmail.com
+- Portfolio : https://sites.google.com/view/olwa-audia?usp=sharing
