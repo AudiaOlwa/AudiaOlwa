@@ -5,7 +5,7 @@ Passionnée par le développement web et les technologies open source.
 
 - 🔭 Actuellement, je travaille sur des projets React et Django
 - 🌱 Je me forme en génie logiciel avec le programme ALX
-🚀 Compétences Techniques
+- 🚀 Compétences Techniques
 Langages : JavaScript, Python, HTML, CSS, SQL
 
 Frameworks / Librairies : React, Node.js, Django, Bootstrap, Tailwind
